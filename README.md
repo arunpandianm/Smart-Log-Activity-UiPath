@@ -1,1 +1,1 @@
-# Smart-Log-Activity-UiPath
+# Smart Log Activity UiPath
