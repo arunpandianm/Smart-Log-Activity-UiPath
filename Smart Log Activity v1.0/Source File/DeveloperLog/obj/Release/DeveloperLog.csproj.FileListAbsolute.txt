@@ -1,0 +1,4 @@
+C:\Users\A7012673\documents\visual studio 2010\Projects\DeveloperLog\DeveloperLog\bin\Release\DeveloperLog.dll
+C:\Users\A7012673\documents\visual studio 2010\Projects\DeveloperLog\DeveloperLog\bin\Release\DeveloperLog.pdb
+C:\Users\A7012673\documents\visual studio 2010\Projects\DeveloperLog\DeveloperLog\obj\Release\DeveloperLog.dll
+C:\Users\A7012673\documents\visual studio 2010\Projects\DeveloperLog\DeveloperLog\obj\Release\DeveloperLog.pdb
